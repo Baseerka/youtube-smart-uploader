@@ -25,16 +25,19 @@ Before using this tool, ensure you have the following:
 
    ```bash
    git clone https://github.com/Baseerka/youtube-smart-uploader.git
+   ```
 
 2. **Navigate to the Project Directory**:
 
    ```bash
    cd youtube-smart-uploader
+   ```
 
 3. **Install Required Packages**:
 
    ```bash
    pip install -r requirements.txt
+   ```
 
 ## Configuration
 
@@ -53,6 +56,7 @@ Before using this tool, ensure you have the following:
      "privacy_status": "public",
      "credentials_file": "path/to/credentials.json"
    }
+   ```
    - `upload_method`: Choose `"api"` for YouTube Data API or `"selenium"` for Selenium WebDriver.
    - `video_path`: Path to the video file you want to upload.
    - `title`: Title of the video.
