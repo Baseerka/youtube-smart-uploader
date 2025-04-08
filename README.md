@@ -25,3 +25,15 @@ Before using this tool, ensure you have the following:
 
    ```bash
    git clone https://github.com/Baseerka/youtube-smart-uploader.git
+
+2. **Navigate to the Project Directory**:
+
+   ```bash
+   cd youtube-smart-uploader
+
+3. **Install Required Packages**:
+
+   ```bash
+   pip install -r requirements.txt
+
+## Configuration
