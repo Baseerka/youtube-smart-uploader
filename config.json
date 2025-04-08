@@ -1,0 +1,17 @@
+[
+    {
+      "file": "youtube/videos/video1.mp4",
+      "title": "sample",
+      "description": "sample",
+      "keywords": "sample, sample, sample",
+      "privacyStatus": "public"
+    },
+    {
+      "file": "youtube/videos/video2.mp4",
+      "title": "sample",
+      "description": "sample",
+      "keywords": "sample, sample, sample",
+      "privacyStatus": "public"
+    }
+]
+  
